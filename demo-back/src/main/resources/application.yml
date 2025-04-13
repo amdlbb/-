@@ -1,0 +1,19 @@
+spring.application.name: demo-back
+
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://127.0.0.1:3306/demo
+    username: root
+    password: 123456
+
+server:
+  port: 9527
+
+upload:
+  diskPath: C:/Users/乐克/Desktop/shixun/
+  webPath: /upload/
+
+mybatis-plus:
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
