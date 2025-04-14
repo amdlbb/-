@@ -18,7 +18,7 @@
 - **其他**: Lombok + Session管理
 
 ### 前端 （demo）
-- **框架**: Vue + Element
+- **框架**: Vue + ElementUI
 - **路由**: Vue Router
 - **Http库**：axios
 - **构建工具**: Webpack 
