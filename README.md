@@ -12,7 +12,7 @@
 ## 技术栈
 ### 后端 （demo-back）
 - **框架**: Spring Boot
-- **持久层**: MyBatis-Plus
+- **SQL工具**: MyBatis-Plus
 - **数据库**: MySQL
 - **构建工具**: Maven
 - **其他**: Lombok + Session管理
