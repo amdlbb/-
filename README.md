@@ -10,14 +10,14 @@
 一个基于SpringBoot+Vue的前后端分离电商平台，专注于书籍销售场景。包含完整的用户系统、商品展示、订单管理等模块。
 
 ## 技术栈
-### 后端
+### 后端 （demo-back）
 - **框架**: Spring Boot
 - **持久层**: MyBatis-Plus
 - **数据库**: MySQL
 - **构建工具**: Maven
 - **其他**: Lombok + Session管理
 
-### 前端
+### 前端 （demo）
 - **框架**: Vue + Element
 - **路由**: Vue Router
 - **Http库**：axios
